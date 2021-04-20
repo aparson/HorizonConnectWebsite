@@ -1,0 +1,39 @@
+{
+  "files": {
+    "app.js": "/HorizonConnectWebsite/static/js/app.80e57289.chunk.js",
+    "app.js.map": "/HorizonConnectWebsite/static/js/app.80e57289.chunk.js.map",
+    "runtime~app.js": "/HorizonConnectWebsite/static/js/runtime~app.f2e78e88.js",
+    "runtime~app.js.map": "/HorizonConnectWebsite/static/js/runtime~app.f2e78e88.js.map",
+    "static/js/2.b15828dc.chunk.js": "/HorizonConnectWebsite/static/js/2.b15828dc.chunk.js",
+    "static/js/2.b15828dc.chunk.js.map": "/HorizonConnectWebsite/static/js/2.b15828dc.chunk.js.map",
+    "fonts/AntDesign.ttf": "/HorizonConnectWebsite/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/HorizonConnectWebsite/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/HorizonConnectWebsite/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/HorizonConnectWebsite/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/HorizonConnectWebsite/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/HorizonConnectWebsite/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/HorizonConnectWebsite/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/HorizonConnectWebsite/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/HorizonConnectWebsite/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/HorizonConnectWebsite/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/HorizonConnectWebsite/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/HorizonConnectWebsite/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/HorizonConnectWebsite/favicon-16.png",
+    "favicon-32.png": "/HorizonConnectWebsite/favicon-32.png",
+    "favicon.ico": "/HorizonConnectWebsite/favicon.ico",
+    "index.html": "/HorizonConnectWebsite/index.html",
+    "manifest.json": "/HorizonConnectWebsite/manifest.json",
+    "serve.json": "/HorizonConnectWebsite/serve.json",
+    "static/js/2.b15828dc.chunk.js.LICENSE.txt": "/HorizonConnectWebsite/static/js/2.b15828dc.chunk.js.LICENSE.txt",
+    "static/media/bell.png": "/HorizonConnectWebsite/static/media/bell.cf04af27.png",
+    "static/media/heart.png": "/HorizonConnectWebsite/static/media/heart.23b5c2c0.png",
+    "static/media/homePageImage.png": "/HorizonConnectWebsite/static/media/homePageImage.e887dbb5.png",
+    "static/media/rocket.png": "/HorizonConnectWebsite/static/media/rocket.d2f3bf41.png",
+    "static/media/star.png": "/HorizonConnectWebsite/static/media/star.69c71386.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.f2e78e88.js",
+    "static/js/2.b15828dc.chunk.js",
+    "static/js/app.80e57289.chunk.js"
+  ]
+}
