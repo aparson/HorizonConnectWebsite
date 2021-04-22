@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/aparson.github.io/static/js/app.80e57289.chunk.js",
-    "app.js.map": "/aparson.github.io/static/js/app.80e57289.chunk.js.map",
+    "app.js": "/aparson.github.io/static/js/app.bef2912a.chunk.js",
+    "app.js.map": "/aparson.github.io/static/js/app.bef2912a.chunk.js.map",
     "runtime~app.js": "/aparson.github.io/static/js/runtime~app.62a25a89.js",
     "runtime~app.js.map": "/aparson.github.io/static/js/runtime~app.62a25a89.js.map",
-    "static/js/2.d7eed7a0.chunk.js": "/aparson.github.io/static/js/2.d7eed7a0.chunk.js",
-    "static/js/2.d7eed7a0.chunk.js.map": "/aparson.github.io/static/js/2.d7eed7a0.chunk.js.map",
+    "static/js/2.17bedd3e.chunk.js": "/aparson.github.io/static/js/2.17bedd3e.chunk.js",
+    "static/js/2.17bedd3e.chunk.js.map": "/aparson.github.io/static/js/2.17bedd3e.chunk.js.map",
     "fonts/AntDesign.ttf": "/aparson.github.io/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/aparson.github.io/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/aparson.github.io/./fonts/Feather.ttf",
@@ -24,7 +24,7 @@
     "index.html": "/aparson.github.io/index.html",
     "manifest.json": "/aparson.github.io/manifest.json",
     "serve.json": "/aparson.github.io/serve.json",
-    "static/js/2.d7eed7a0.chunk.js.LICENSE.txt": "/aparson.github.io/static/js/2.d7eed7a0.chunk.js.LICENSE.txt",
+    "static/js/2.17bedd3e.chunk.js.LICENSE.txt": "/aparson.github.io/static/js/2.17bedd3e.chunk.js.LICENSE.txt",
     "static/media/bell.png": "/aparson.github.io/static/media/bell.cf04af27.png",
     "static/media/heart.png": "/aparson.github.io/static/media/heart.23b5c2c0.png",
     "static/media/homePageImage.png": "/aparson.github.io/static/media/homePageImage.e887dbb5.png",
@@ -33,7 +33,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.62a25a89.js",
-    "static/js/2.d7eed7a0.chunk.js",
-    "static/js/app.80e57289.chunk.js"
+    "static/js/2.17bedd3e.chunk.js",
+    "static/js/app.bef2912a.chunk.js"
   ]
 }
